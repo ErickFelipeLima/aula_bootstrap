@@ -1,0 +1,27 @@
+body {
+    font: 20px Ariel, sans-serif;
+    color: black;
+}
+.navbar {
+    background-color: #29BA08;
+}
+
+.margim {
+    background-color: #29b;
+    color: aliceblue;
+}
+
+.margim{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #5858fa;
+    color: purple;
+}
+
+.bg-footer{
+    background-color: #343434;
+    color: bisque;
+}
